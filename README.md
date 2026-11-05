@@ -1,5 +1,11 @@
 # SDAIA T5 Data Science & AI Bootcamp
 The SDAIA T5 Data Science & AI Bootcamp is an intensive national training program in Saudi Arabia developed by the Saudi Data and Artificial Intelligence Authority (SDAIA) in collaboration with Tuwaiq Academy.
+## Learning Path (Structure)
+
+```mermaid
+flowchart LR
+  A["SQL"] --> B["Python"] --> C["Data Analysis"] --> D["Machine Learning"] --> E["Deep Learning"] --> F["Computer Vision"] --> G["Capstone: GreenGuard"]
+```
 
 Objectives:
 - Data Mining and Analysis
